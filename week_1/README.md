@@ -39,19 +39,19 @@
 
 ## Reflections
 
-1. Test-drive a simple program using objects and methods (5/5)
+1. Test-drive a simple program using objects and methods (score: 4/5)
   - I got a lot of practice using this skill during the week
   - Built a lot of knowledge on writing good tests (Arrange, Act, Assert) and using RSpec
   - Good grounding in TDD principles (red / green / refactor, user stories & domain models, feature tests / unit tests)
 
-2. Pair using the driver-navigator style (3/5)
+2. Pair using the driver-navigator style (score: 3/5)
  - Researched good pair programming etiquette and different styles (driver-navigator, ping pong, strong style)
  - Gained good experience with 4 different pair partners this week
  - Looking forward to getting more practice 
 
-3. Follow an effective debugging process (4/5)
+3. Follow an effective debugging process (score: 4/5)
   - I got a lot of practice using this skill during the week
   - Good grounding in debugging process (tighten the loop, get visibility)
 
-4. Describe some basic OO principles like encapsulation, SRP (2/5)
+4. Describe some basic OO principles like encapsulation, SRP (score: 2/5)
   - Did not have much time to cover this objective 

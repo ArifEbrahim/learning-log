@@ -27,4 +27,5 @@ Every week I plan to reflect on a my journey through Makers Academy and document
 
 ## Weekly updates
 
-Week 1: 
+Week 1: https://github.com/ArifEbrahim/learning-log/tree/main/week_1
+Week 2: https://github.com/ArifEbrahim/learning-log/tree/main/week_2
