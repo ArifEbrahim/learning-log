@@ -11,15 +11,15 @@
 
 ## Break one class into two classes that work together, while maintaining test coverage
 - Attended domain modelling workshop
-- Completed workshop exercise (Notebook) [here]()
+- Completed workshop exercise (Notebook) [here](https://github.com/ArifEbrahim/learning-log/blob/main/week_2/code/notebook.rb)
 - Attended workshop on delegation, class interaction & dependency injection 
-- Completed workshop exercise (Company savings) [here]()
+- Completed workshop exercise (Company savings) [here](https://github.com/ArifEbrahim/learning-log/blob/main/week_2/code/company_savings.rb)
 - Practiced this during the weekly coding challenge (Oystercard) [here](https://github.com/ArifEbrahim/oyster_card3)
 - Further practice during the individual weekend coding challenge (Takeaway) [here](https://github.com/ArifEbrahim/takeaway-challenge)
 
 ## Unit test classes in isolation using mocking
-- Completed mocking practical [here]()
-- Completed dependancy injection practical [here]()
+- Completed mocking practical [here](https://github.com/ArifEbrahim/learning-log/tree/main/week_2/code/student-mocking-workshop)
+- Completed dependancy injection practical [here](https://github.com/ArifEbrahim/learning-log/tree/main/week_2/code/dependency_injection)
 - Spoke to a coach to test my understanding of test isolation & tight coupling 
 - Also spoke to a coach about how to select the right test when multiple options exist
 
@@ -37,10 +37,17 @@
 ## Reflections
 
 1. Break one class into two classes that work together, while maintaining test coverage
+  - Worked on three exercises that helped reinfornce this, the seperation of concerns principle and SRP
+  - Learned about UML and two new modelling tools to help plan/design code structure before diving in
 
 2. Unit test classes in isolation using mocking
+  - Made significant progress in my understanding of unit testing & proper test isloation
+  - Understaood how to identify tight coupling, the issues is creates and how to solve
+  - I learned how to mock both classes and objects to ensure test isloation
 
 3. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
   - Did not have much time to cover this objective 
 
 4. Review another person's code and give them meaningful feedback 
+  - I looked into what a good developr process looks like and how to give feedback
+  - I had two opportunites to give feedback on other peoples code

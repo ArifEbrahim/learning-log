@@ -46,7 +46,7 @@
 
 2. Pair using the driver-navigator style (score: 3/5)
  - Researched good pair programming etiquette and different styles (driver-navigator, ping pong, strong style)
- - Gained good experience with 4 different pair partners this week
+ - Gained good experience with 4 different pair partners this week, feedback [here](https://github.com/ArifEbrahim/learning-log/blob/main/week_1/week%201%20feedback.png)
  - Looking forward to getting more practice 
 
 3. Follow an effective debugging process (score: 4/5)
