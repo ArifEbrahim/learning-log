@@ -36,18 +36,19 @@
 
 ## Reflections
 
-1. Break one class into two classes that work together, while maintaining test coverage
+1. Break one class into two classes that work together, while maintaining test coverage (score: 4/5)
   - Worked on three exercises that helped reinfornce this, the seperation of concerns principle and SRP
   - Learned about UML and two new modelling tools to help plan/design code structure before diving in
 
-2. Unit test classes in isolation using mocking
+2. Unit test classes in isolation using mocking (score: 4/5)
   - Made significant progress in my understanding of unit testing & proper test isloation
-  - Understaood how to identify tight coupling, the issues is creates and how to solve
+  - Understaood how to identify tight coupling, the issues is creates and how to solve it
   - I learned how to mock both classes and objects to ensure test isloation
 
-3. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+3. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) (score: 2/5)
   - Did not have much time to cover this objective 
 
-4. Review another person's code and give them meaningful feedback 
+4. Review another person's code and give them meaningful feedback (score: 3/5)
   - I looked into what a good developr process looks like and how to give feedback
   - I had two opportunites to give feedback on other peoples code
+  - I look forward to growing as a developer and being able to give more feedback in future
