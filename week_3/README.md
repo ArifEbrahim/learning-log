@@ -11,18 +11,18 @@
 
 #### Build a simple web app
 - Completed birthday greeter practical [here](https://github.com/ArifEbrahim/birthday_greeter)
-- Completed counter practical [here]
+- Completed counter practical [here](https://github.com/ArifEbrahim/learning-log/tree/main/week_3/code/counter%20app)
 - Practiced this during the weekly coding challenge (Battle) [here](https://github.com/ArifEbrahim/battle_final)
 - Further practice during the individual weekend coding challenge (Rock, Paper, Scissors) [here](https://github.com/ArifEbrahim/rps-challenge)
 
 #### Follow an effective debugging process for web applications
 - Attended debugging webapps workshop
-- Completed workshop exercise [here]
+- Completed workshop exercise [here](https://github.com/ArifEbrahim/learning-log/tree/main/week_3/code/debugging_2)
 - Gained practice through the weekly and weekend coding challenges
 
 #### Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 - Attended modelling HTTP request/response workshop
-- Completed servers practical [here]
+- Completed servers practical [here](https://github.com/ArifEbrahim/learning-log/tree/main/week_3/code/server_practical)
 
 #### Explain the MVC pattern
 - Researched MVC
