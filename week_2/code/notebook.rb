@@ -1,10 +1,11 @@
 class Notebook
-  def initialize
+  def initialize(note = Note.new)
     @notes = []
+    @note = note
   end
 
   def create
-    note = Note.new.create
+    note = @note.create
     store(note)
   end
 
@@ -17,6 +18,7 @@ class Notebook
     search_tag = gets.chomp
     result = @notes.select{ |note| note[:tag] == search_tag}
     display(result)
+  end
 
   def display(result)
     result.join("/n")
