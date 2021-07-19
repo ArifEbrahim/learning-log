@@ -25,11 +25,3 @@ Every week I plan to reflect on a my journey through Makers Academy and document
 * I can justify the way I work
 * I grow collaboratively
 
-## Weekly updates
-
-Week 1: https://github.com/ArifEbrahim/learning-log/tree/main/week_1
-Week 2: https://github.com/ArifEbrahim/learning-log/tree/main/week_2
-Week 3: https://github.com/ArifEbrahim/learning-log/tree/main/week_3
-Week 4: https://github.com/ArifEbrahim/learning-log/tree/main/week_4
-Week 5: https://github.com/ArifEbrahim/learning-log/tree/main/week_5
-Week 6: https://github.com/ArifEbrahim/learning-log/tree/main/week_6
