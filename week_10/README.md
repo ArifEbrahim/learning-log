@@ -26,7 +26,7 @@
 
 This week was focussed on code quality and improving my craft which i definately achieved.
 - My personal goal was to improve my proficiency with JS which i achieved by doing all my coding this week in JS
-- This took my outside my comfort zone but really helped to develop my skill
+- This took me outside my comfort zone but really helped to develop my skill
 - In my personal time i built a blog app using Node, Express and MongoDB to start understanding the MERN stack (saving React for later)
 - I really focussed on code quality ensuring my tech test followed good OOP, was developed through TDD and was DRY.
 - My developer process was improved with all the reviews I had and I now feel confident coding infront of anyone
