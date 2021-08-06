@@ -9,7 +9,7 @@
 ## Work done / evidence
 
 #### Solve a challenging technical problem by writing well crafted code.
-- Completed the bank tech test here that simulates simple banking functionality
+- Completed the bank tech test [here](https://github.com/ArifEbrahim/bank_tech_test) that simulates simple banking functionality
 - Increased the difficulty level significantly by opting to use JS, Jest & ESlint
 - Spent a good amount of time planning to understand the problem and develop my approach
 - Wrote high quality code with high test coverage and all classes fully mocked
