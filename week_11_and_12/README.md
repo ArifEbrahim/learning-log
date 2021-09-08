@@ -29,5 +29,6 @@ This was the final engineering project at Makers where my team decided to make a
 
 This project was both very challenging and rewarding. 
 - I spent a significant amount of personal time learning how to use React for the first time as well as React testing library
-- I wrote the mjority of code for the front end and supported other developers on the front end team
+- I wrote the majority of code for the front end and supported other developers on the front end team
+- I worked with the backend team on full stack troubleshooting to ensure full app functionality
 - Whilst the project was challenging and demanding, it was highly rewarding seeing the whole thing come together at the end
